@@ -1,6 +1,6 @@
 # Image Captioning
 
-1. Clone this repositoy
+1. Clone this repository
 ```bash
 git clone https://github.com/AppanDas010/Image-Captioning
 ``` 
